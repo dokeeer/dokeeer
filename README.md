@@ -25,7 +25,8 @@
 
 ---
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/pedoker)
+- :mailbox:How to reach me: 
+- [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/pedoker)
 
 
 
