@@ -1,4 +1,4 @@
-<h1 align="center">Hey there
+<h1 align="center">Hello there
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Junior React developer</h3>
 
