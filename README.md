@@ -21,8 +21,6 @@
 
 ---
 
-- ### Portfolio: https://github.com/dokeeer/
-
 ---
 
 - :mailbox:How to reach me: 
