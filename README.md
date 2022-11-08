@@ -4,7 +4,7 @@
 
 ## :man_technologist: About Me :
 
-### I am Junior React developer with 5 month of commercial working experience in a company. Want to improve my skills, like to learn new technologies and discover new opportunities
+### I am Junior React developer with 7 month of commercial working experience in a company. Want to improve my skills, like to learn new technologies and discover new opportunities
 
 ---
 
